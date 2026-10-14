@@ -10,7 +10,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-0d0d0d?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vimeo-0d0d0d?style=flat-square&logo=vimeo&logoColor=white" /></a>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:mochentube@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
 <br />
