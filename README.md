@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="./viewfinder.svg" width="100%" alt="CHOKAMIN · Director of Photography · Content Creator" />
-</p>
+<img src="./terminal.svg" width="100%" alt="Terminal: whoami — director of photography, content creator, part-time developer" />
 
 <p align="center">
-  I point cameras at things, then tell the internet about it.
-  <br />
-  <sub>Hangzhou · usually somewhere with better light</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@zhangmochen"><img src="https://img.shields.io/badge/YouTube-0b0b0b?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:mochentube@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0b?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@zhangmochen"><img src="./red-pill.svg" height="60" alt="YouTube" /></a>
+  <a href="mailto:mochentube@gmail.com"><img src="./blue-pill.svg" height="60" alt="Email" /></a>
 </p>

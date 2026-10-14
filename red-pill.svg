@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 196 64" width="196" height="64" role="img" aria-label="YouTube">
+  <defs>
+    <g id="rain" font-family="SF Mono, Menlo, Consolas, monospace" font-size="11">
+      <text y="-104"><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.20">ﾍ</tspan><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.30">ﾗ</tspan><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.40">ﾋ</tspan><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.50">ｶ</tspan><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.60">ｻ</tspan><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.70">3</tspan><tspan x="6" dy="13" fill="#00ff41" fill-opacity="0.80">ﾔ</tspan><tspan x="6" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾄ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 168" dur="3.9s" begin="-2.5s" repeatCount="indefinite" /></text>
+      <text y="-104"><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.20">ﾆ</tspan><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.30">4</tspan><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.40">ｹ</tspan><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.50">9</tspan><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.60">ﾘ</tspan><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.70">ﾙ</tspan><tspan x="19" dy="13" fill="#00ff41" fill-opacity="0.80">ﾃ</tspan><tspan x="19" dy="13" fill="#d8ffe0" fill-opacity="1.00">4</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 168" dur="3.1s" begin="-1.4s" repeatCount="indefinite" /></text>
+      <text y="-91"><tspan x="32" dy="13" fill="#00ff41" fill-opacity="0.20">ｺ</tspan><tspan x="32" dy="13" fill="#00ff41" fill-opacity="0.31">ﾂ</tspan><tspan x="32" dy="13" fill="#00ff41" fill-opacity="0.43">ﾚ</tspan><tspan x="32" dy="13" fill="#00ff41" fill-opacity="0.54">ﾜ</tspan><tspan x="32" dy="13" fill="#00ff41" fill-opacity="0.66">ﾖ</tspan><tspan x="32" dy="13" fill="#00ff41" fill-opacity="0.77">ｼ</tspan><tspan x="32" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾇ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 155" dur="5.0s" begin="-0.8s" repeatCount="indefinite" /></text>
+      <text y="-117"><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.20">ﾇ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.29">ﾗ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.38">ﾗ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.47">ﾗ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.56">ﾓ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.64">ｿ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.73">ﾖ</tspan><tspan x="45" dy="13" fill="#00ff41" fill-opacity="0.82">ﾖ</tspan><tspan x="45" dy="13" fill="#d8ffe0" fill-opacity="1.00">6</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 181" dur="5.0s" begin="-1.0s" repeatCount="indefinite" /></text>
+      <text y="-104"><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.20">3</tspan><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.30">ﾝ</tspan><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.40">ﾚ</tspan><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.50">9</tspan><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.60">ｾ</tspan><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.70">ﾓ</tspan><tspan x="58" dy="13" fill="#00ff41" fill-opacity="0.80">ﾜ</tspan><tspan x="58" dy="13" fill="#d8ffe0" fill-opacity="1.00">ｿ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 168" dur="3.5s" begin="-0.9s" repeatCount="indefinite" /></text>
+      <text y="-104"><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.20">2</tspan><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.30">8</tspan><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.40">ﾇ</tspan><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.50">ｸ</tspan><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.60">ﾝ</tspan><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.70">ﾗ</tspan><tspan x="71" dy="13" fill="#00ff41" fill-opacity="0.80">ﾄ</tspan><tspan x="71" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾝ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 168" dur="4.4s" begin="-0.5s" repeatCount="indefinite" /></text>
+      <text y="-65"><tspan x="84" dy="13" fill="#00ff41" fill-opacity="0.20">ﾗ</tspan><tspan x="84" dy="13" fill="#00ff41" fill-opacity="0.36">ﾈ</tspan><tspan x="84" dy="13" fill="#00ff41" fill-opacity="0.52">ﾌ</tspan><tspan x="84" dy="13" fill="#00ff41" fill-opacity="0.68">ｳ</tspan><tspan x="84" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾚ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 129" dur="2.8s" begin="-2.1s" repeatCount="indefinite" /></text>
+      <text y="-65"><tspan x="97" dy="13" fill="#00ff41" fill-opacity="0.20">ｻ</tspan><tspan x="97" dy="13" fill="#00ff41" fill-opacity="0.36">ﾑ</tspan><tspan x="97" dy="13" fill="#00ff41" fill-opacity="0.52">ｹ</tspan><tspan x="97" dy="13" fill="#00ff41" fill-opacity="0.68">ﾅ</tspan><tspan x="97" dy="13" fill="#d8ffe0" fill-opacity="1.00">ｱ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 129" dur="4.1s" begin="-1.9s" repeatCount="indefinite" /></text>
+      <text y="-91"><tspan x="110" dy="13" fill="#00ff41" fill-opacity="0.20">7</tspan><tspan x="110" dy="13" fill="#00ff41" fill-opacity="0.31">8</tspan><tspan x="110" dy="13" fill="#00ff41" fill-opacity="0.43">ﾃ</tspan><tspan x="110" dy="13" fill="#00ff41" fill-opacity="0.54">ｷ</tspan><tspan x="110" dy="13" fill="#00ff41" fill-opacity="0.66">6</tspan><tspan x="110" dy="13" fill="#00ff41" fill-opacity="0.77">ﾂ</tspan><tspan x="110" dy="13" fill="#d8ffe0" fill-opacity="1.00">2</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 155" dur="4.6s" begin="-0.8s" repeatCount="indefinite" /></text>
+      <text y="-104"><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.20">ｷ</tspan><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.30">ﾀ</tspan><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.40">7</tspan><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.50">ﾖ</tspan><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.60">1</tspan><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.70">ﾆ</tspan><tspan x="123" dy="13" fill="#00ff41" fill-opacity="0.80">7</tspan><tspan x="123" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾄ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 168" dur="5.3s" begin="-3.8s" repeatCount="indefinite" /></text>
+      <text y="-65"><tspan x="136" dy="13" fill="#00ff41" fill-opacity="0.20">ﾙ</tspan><tspan x="136" dy="13" fill="#00ff41" fill-opacity="0.36">3</tspan><tspan x="136" dy="13" fill="#00ff41" fill-opacity="0.52">ﾁ</tspan><tspan x="136" dy="13" fill="#00ff41" fill-opacity="0.68">4</tspan><tspan x="136" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾜ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 129" dur="4.8s" begin="-1.8s" repeatCount="indefinite" /></text>
+      <text y="-104"><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.20">ﾚ</tspan><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.30">ﾓ</tspan><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.40">3</tspan><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.50">ﾘ</tspan><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.60">ｲ</tspan><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.70">ﾊ</tspan><tspan x="149" dy="13" fill="#00ff41" fill-opacity="0.80">ﾂ</tspan><tspan x="149" dy="13" fill="#d8ffe0" fill-opacity="1.00">5</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 168" dur="2.6s" begin="-2.4s" repeatCount="indefinite" /></text>
+      <text y="-78"><tspan x="162" dy="13" fill="#00ff41" fill-opacity="0.20">ﾘ</tspan><tspan x="162" dy="13" fill="#00ff41" fill-opacity="0.33">ｼ</tspan><tspan x="162" dy="13" fill="#00ff41" fill-opacity="0.47">ﾄ</tspan><tspan x="162" dy="13" fill="#00ff41" fill-opacity="0.60">ｷ</tspan><tspan x="162" dy="13" fill="#00ff41" fill-opacity="0.73">ｵ</tspan><tspan x="162" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾒ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 142" dur="4.4s" begin="-0.8s" repeatCount="indefinite" /></text>
+      <text y="-117"><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.20">ﾀ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.29">ﾙ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.38">ｼ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.47">ﾓ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.56">ｸ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.64">ﾊ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.73">ｶ</tspan><tspan x="175" dy="13" fill="#00ff41" fill-opacity="0.82">ｱ</tspan><tspan x="175" dy="13" fill="#d8ffe0" fill-opacity="1.00">ﾄ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 181" dur="5.4s" begin="-4.0s" repeatCount="indefinite" /></text>
+      <text y="-65"><tspan x="188" dy="13" fill="#00ff41" fill-opacity="0.20">ﾑ</tspan><tspan x="188" dy="13" fill="#00ff41" fill-opacity="0.36">ﾛ</tspan><tspan x="188" dy="13" fill="#00ff41" fill-opacity="0.52">7</tspan><tspan x="188" dy="13" fill="#00ff41" fill-opacity="0.68">ﾜ</tspan><tspan x="188" dy="13" fill="#d8ffe0" fill-opacity="1.00">ｻ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 129" dur="4.8s" begin="-0.3s" repeatCount="indefinite" /></text>
+    </g>
+    <clipPath id="tile"><rect width="196" height="64" rx="14" /></clipPath>
+    <clipPath id="pill"><rect x="20.0" y="12.0" width="156" height="40" rx="20.0" /></clipPath>
+    <!-- the rim band, where glass bends light the most -->
+    <mask id="edge">
+      <rect x="20.0" y="12.0" width="156" height="40" rx="20.0" fill="#fff" />
+      <rect x="25.0" y="17.0" width="146" height="30" rx="15.0" fill="#000" />
+    </mask>
+    <filter id="lens" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency=".035 .06" numOctaves="1" seed="4" result="n" />
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="7" xChannelSelector="R" yChannelSelector="G" result="d" />
+      <feGaussianBlur in="d" stdDeviation="1" />
+    </filter>
+    <filter id="lensEdge" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency=".06 .12" numOctaves="1" seed="9" result="n" />
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="14" xChannelSelector="R" yChannelSelector="G" result="d" />
+      <feGaussianBlur in="d" stdDeviation="1.6" />
+    </filter>
+    <filter id="shadow" x="-30%" y="-60%" width="160%" height="260%"><feGaussianBlur stdDeviation="3.5" /></filter>
+    <filter id="glint" x="-30%" y="-200%" width="160%" height="500%"><feGaussianBlur stdDeviation=".7" /></filter>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0"   stop-color="#fff" stop-opacity=".95" />
+      <stop offset=".35" stop-color="#fff" stop-opacity=".15" />
+      <stop offset=".7"  stop-color="#fff" stop-opacity=".05" />
+      <stop offset="1"   stop-color="#fff" stop-opacity=".6" />
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".2" />
+      <stop offset=".5" stop-color="#ff3b47" stop-opacity=".10" />
+      <stop offset="1" stop-color="#ff3b47" stop-opacity=".28" />
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#fff" stop-opacity=".5" />
+      <stop offset=".45" stop-color="#fff" stop-opacity=".18" />
+      <stop offset="1"   stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <!-- fade the highlight out toward both ends so it melts into the glass -->
+    <linearGradient id="fadeXg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#fff" stop-opacity="0" />
+      <stop offset=".22" stop-color="#fff" stop-opacity=".85" />
+      <stop offset=".5"  stop-color="#fff" stop-opacity="1" />
+      <stop offset=".78" stop-color="#fff" stop-opacity=".85" />
+      <stop offset="1"   stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <mask id="fadeX" maskContentUnits="userSpaceOnUse"><rect x="20.0" y="12.0" width="156" height="40" fill="url(#fadeXg)" /></mask>
+    <filter id="sheenBlur" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="1.4" /></filter>
+  </defs>
+
+  <g clip-path="url(#tile)">
+    <rect width="196" height="64" fill="#020703" />
+    <use xlink:href="#rain" href="#rain" opacity=".55" />
+    <!-- glass casts a soft shadow onto the rain -->
+    <rect x="26.0" y="19.0" width="144" height="36" rx="18.0" fill="#000" opacity=".5" filter="url(#shadow)" />
+
+    <!-- through the glass: magnified, bent and softened -->
+    <g clip-path="url(#pill)">
+      <rect x="20.0" y="12.0" width="156" height="40" rx="20.0" fill="#020703" />
+      <g filter="url(#lens)">
+        <use xlink:href="#rain" href="#rain" transform="translate(98.0 32.0) scale(1.22) translate(-98.0 -32.0)" />
+      </g>
+      <g mask="url(#edge)" filter="url(#lensEdge)">
+        <use xlink:href="#rain" href="#rain" transform="translate(98.0 32.0) scale(1.6) translate(-98.0 -32.0)" />
+      </g>
+      <rect x="20.0" y="12.0" width="156" height="40" rx="20.0" fill="url(#body)" />
+      <g mask="url(#fadeX)" filter="url(#sheenBlur)">
+        <rect x="26.0" y="13.4" width="144.0" height="20.8" rx="10.4" fill="url(#sheen)" />
+      </g>
+    </g>
+
+    <!-- glass edges: bright top-left, secondary bounce bottom-right, a tinted inner line -->
+    <rect x="20.6" y="12.6" width="154.8" height="38.8" rx="19.4" fill="none" stroke="url(#rim)" stroke-width="1.2" />
+    <rect x="22.0" y="14.0" width="152" height="36" rx="18.0" fill="none" stroke="#ff3b47" stroke-opacity=".35" stroke-width=".8" />
+    <ellipse cx="46.0" cy="15.4" rx="9" ry="1.2" fill="#fff" filter="url(#glint)" />
+    <ellipse cx="152.0" cy="49.2" rx="7" ry="1" fill="#fff" opacity=".55" filter="url(#glint)" />
+
+    <g transform="translate(42.0 32.0)"><rect x="-9" y="-6.5" width="18" height="13" rx="3.5" fill="#ff3b47" /><path d="M-2.2 -3.4 L4 0 L-2.2 3.4 Z" fill="#fff" /></g>
+    <text x="60.0" y="37.0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#fff" letter-spacing=".3">YouTube</text>
+  </g>
+</svg>
